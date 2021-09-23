@@ -1,2 +1,3 @@
-ini ngubah isi aja
+ini ngubah bagian isi aja
 menambah commite pada cabang
+
